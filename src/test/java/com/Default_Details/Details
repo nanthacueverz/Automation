@@ -1,0 +1,13 @@
+url=https://halalfull.com/
+
+#locater
+
+uid=phone_number
+pwd=password
+btn=//button[normalize-space()='Login']
+
+#value
+
+uidv=9493450243
+pwdv=;lkjhgh
+
